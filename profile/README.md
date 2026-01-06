@@ -1,4 +1,4 @@
-# K3HQ - Building the Future of Software Development
+# K3HQ - Building an Intelligent Development Environment
 
 **Pioneering Software Engineering 3.0 through the first Intelligent Development Environment for the Agentic Era**
 
